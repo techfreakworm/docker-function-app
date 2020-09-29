@@ -6,5 +6,6 @@
       "direction": "in",
       "schedule": "0 */5 * * * *"
     }
-  ]
+  ],
+  "scriptFile": "../dist/TimeTriggerFunction/index.js"
 }
